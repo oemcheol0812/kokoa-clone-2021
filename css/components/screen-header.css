@@ -15,3 +15,15 @@
 .screen-header___icons span {
   margin-left: 25px;
 }
+
+.cog___notification {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: 20px;
+  margin-top: -7px;
+}
