@@ -1,0 +1,27 @@
+.user-component___text {
+  position: relative;
+}
+
+.user-component___text span {
+  position: absolute;
+  right: -20px;
+  bottom: 2px;
+  border: 2px solid red;
+  border-radius: 100%;
+  padding: 5px;
+  color: red;
+}
+
+.more-screen .icon-row {
+  margin-top: 35px;
+}
+
+.more-suggestions {
+  margin-top: 50px;
+  border-top: var(--main-border);
+  padding-top: 40px;
+}
+
+.more-suggestions___title {
+  margin-bottom: 30px;
+}
